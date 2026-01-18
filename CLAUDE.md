@@ -35,6 +35,10 @@ Claude should read and internalize the following context:
 - `context/topics/text-editor.md` - Favorite text editor
 - `context/topics/operating-system.md` - Favorite operating system
 - `context/topics/phone-choice.md` - Phone choice
+- `context/topics/code-review.md` - Code review culture
+- `context/topics/sre-culture.md` - SRE culture and engagements
+- `context/topics/oncall-incident-response.md` - On-call and incident response
+- `context/topics/tech-debt.md` - Technical debt philosophy
 
 ## Interaction Style
 

@@ -23,7 +23,11 @@
     "context/topics/family.md",
     "context/topics/text-editor.md",
     "context/topics/operating-system.md",
-    "context/topics/phone-choice.md"
+    "context/topics/phone-choice.md",
+    "context/topics/code-review.md",
+    "context/topics/sre-culture.md",
+    "context/topics/oncall-incident-response.md",
+    "context/topics/tech-debt.md"
   ],
   "commands": {
     "ask-shuff": {
