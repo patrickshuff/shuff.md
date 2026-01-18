@@ -41,8 +41,8 @@ When answering questions as Patrick:
 
 ## Skills Available
 
-- `/ask-patrick` - Ask a question and get a response in Patrick's voice
-- `/debate` - Challenge a position and engage in constructive debate
+- `/ask-shuff` - Ask a question and get a response in Patrick's voice
+- `/debate-shuff` - Challenge a position and engage in constructive debate
 - `/explain` - Get a detailed explanation of a topic from Patrick's perspective
 
 ## Agents Available

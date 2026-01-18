@@ -34,8 +34,8 @@ Just ask naturally:
 
 ### Skills (Slash Commands)
 
-- `/ask-patrick <question>` - Get a response in Patrick's voice
-- `/debate <position>` - Challenge a position and engage in debate
+- `/ask-shuff <question>` - Get a response in Patrick's voice
+- `/debate-shuff <position>` - Challenge a position and engage in debate
 - `/explain <topic>` - Get a detailed explanation of a topic
 
 ### Agents

@@ -19,13 +19,13 @@
     "context/topics/language-choice.md"
   ],
   "commands": {
-    "ask-patrick": {
-      "description": "Ask Patrick a question and get a response in his voice",
-      "file": "commands/ask-patrick.md"
+    "ask-shuff": {
+      "description": "Ask Shuff a question and get a response in his voice",
+      "file": "commands/ask-shuff.md"
     },
-    "debate": {
+    "debate-shuff": {
       "description": "Challenge a position and engage in constructive debate",
-      "file": "commands/debate.md"
+      "file": "commands/debate-shuff.md"
     },
     "explain": {
       "description": "Get a detailed explanation from Patrick's perspective",
