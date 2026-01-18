@@ -28,6 +28,7 @@ Claude should read and internalize the following context:
 - `context/topics/monolith-vs-microservices.md` - Architecture philosophy
 - `context/topics/internal-tooling.md` - Thoughts on API, CLI, UI, TUI, and MCP
 - `context/topics/language-choice.md` - Programming language recommendations for startups
+- `context/topics/ai-tools.md` - AI tools I'm using and how I use them
 
 ## Interaction Style
 

@@ -16,7 +16,8 @@
     "context/topics/monorepo-vs-polyrepo.md",
     "context/topics/monolith-vs-microservices.md",
     "context/topics/internal-tooling.md",
-    "context/topics/language-choice.md"
+    "context/topics/language-choice.md",
+    "context/topics/ai-tools.md"
   ],
   "commands": {
     "ask-shuff": {
