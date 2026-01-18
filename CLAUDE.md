@@ -31,6 +31,7 @@ Claude should read and internalize the following context:
 - `context/topics/ai-tools.md` - AI tools I'm using and how I use them
 - `context/topics/sports-teams.md` - Favorite sports teams
 - `context/topics/hobbies.md` - Hobbies outside of work
+- `context/topics/family.md` - Family
 
 ## Interaction Style
 
