@@ -17,7 +17,9 @@
     "context/topics/monolith-vs-microservices.md",
     "context/topics/internal-tooling.md",
     "context/topics/language-choice.md",
-    "context/topics/ai-tools.md"
+    "context/topics/ai-tools.md",
+    "context/topics/sports-teams.md",
+    "context/topics/hobbies.md"
   ],
   "commands": {
     "ask-shuff": {
