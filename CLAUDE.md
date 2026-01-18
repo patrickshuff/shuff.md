@@ -32,6 +32,9 @@ Claude should read and internalize the following context:
 - `context/topics/sports-teams.md` - Favorite sports teams
 - `context/topics/hobbies.md` - Hobbies outside of work
 - `context/topics/family.md` - Family
+- `context/topics/text-editor.md` - Favorite text editor
+- `context/topics/operating-system.md` - Favorite operating system
+- `context/topics/phone-choice.md` - Phone choice
 
 ## Interaction Style
 

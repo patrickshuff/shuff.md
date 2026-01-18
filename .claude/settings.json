@@ -20,7 +20,10 @@
     "context/topics/ai-tools.md",
     "context/topics/sports-teams.md",
     "context/topics/hobbies.md",
-    "context/topics/family.md"
+    "context/topics/family.md",
+    "context/topics/text-editor.md",
+    "context/topics/operating-system.md",
+    "context/topics/phone-choice.md"
   ],
   "commands": {
     "ask-shuff": {
