@@ -55,8 +55,8 @@ shuff.md/
 ├── .claude/
 │   ├── settings.json            # Plugin configuration
 │   └── commands/                # Skill definitions
-│       ├── ask-patrick.md
-│       ├── debate.md
+│       ├── ask-shuff.md
+│       ├── debate-shuff.md
 │       └── explain.md
 ├── agents/                      # Agent definitions
 │   ├── philosophy-explorer.md
@@ -96,6 +96,7 @@ This plugin embodies a few key ideas:
 2. **Context enables quality** - Rich background context enables better responses
 3. **Structure aids retrieval** - Organized knowledge is more accessible knowledge
 4. **Placeholders are prompts** - Empty sections with good prompts guide future content
+5. **Everything is subject to change** - Views evolve. That's the beauty of keeping this in source control. The git history *is* the record of how thinking changes over time. Commit often, update freely.
 
 ## Contributing
 
