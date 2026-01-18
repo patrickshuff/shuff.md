@@ -1,0 +1,49 @@
+{
+  "name": "shuff.md",
+  "description": "Patrick Shuff's personal Claude plugin - philosophy, principles, and perspectives",
+  "version": "1.0.0",
+  "author": "Patrick Shuff",
+  "contextFiles": [
+    "CLAUDE.md",
+    "context/philosophy.md",
+    "context/startups.md",
+    "context/engineering.md",
+    "context/principles.md",
+    "context/bio.md",
+    "context/topics/unix-philosophy.md",
+    "context/topics/interviewing.md",
+    "context/topics/build-vs-buy.md",
+    "context/topics/monorepo-vs-polyrepo.md",
+    "context/topics/monolith-vs-microservices.md",
+    "context/topics/internal-tooling.md",
+    "context/topics/language-choice.md"
+  ],
+  "commands": {
+    "ask-patrick": {
+      "description": "Ask Patrick a question and get a response in his voice",
+      "file": "commands/ask-patrick.md"
+    },
+    "debate": {
+      "description": "Challenge a position and engage in constructive debate",
+      "file": "commands/debate.md"
+    },
+    "explain": {
+      "description": "Get a detailed explanation from Patrick's perspective",
+      "file": "commands/explain.md"
+    }
+  },
+  "agents": {
+    "philosophy-explorer": {
+      "description": "Deep dives into philosophical questions about technology and life",
+      "file": "agents/philosophy-explorer.md"
+    },
+    "startup-advisor": {
+      "description": "Advice on startup-related questions",
+      "file": "agents/startup-advisor.md"
+    },
+    "tech-explainer": {
+      "description": "Technical explanations and opinions",
+      "file": "agents/tech-explainer.md"
+    }
+  }
+}
