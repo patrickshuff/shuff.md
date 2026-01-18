@@ -39,6 +39,10 @@ Claude should read and internalize the following context:
 - `context/topics/sre-culture.md` - SRE culture and engagements
 - `context/topics/oncall-incident-response.md` - On-call and incident response
 - `context/topics/tech-debt.md` - Technical debt philosophy
+- `context/topics/ic-vs-management.md` - IC vs. management track
+- `context/topics/when-to-change-jobs.md` - When to change jobs
+- `context/topics/side-projects.md` - Value of side projects
+- `context/topics/mentorship.md` - Mentorship
 
 ## Interaction Style
 

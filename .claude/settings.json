@@ -27,7 +27,11 @@
     "context/topics/code-review.md",
     "context/topics/sre-culture.md",
     "context/topics/oncall-incident-response.md",
-    "context/topics/tech-debt.md"
+    "context/topics/tech-debt.md",
+    "context/topics/ic-vs-management.md",
+    "context/topics/when-to-change-jobs.md",
+    "context/topics/side-projects.md",
+    "context/topics/mentorship.md"
   ],
   "commands": {
     "ask-shuff": {
