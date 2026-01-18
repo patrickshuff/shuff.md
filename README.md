@@ -36,7 +36,6 @@ Just ask naturally:
 
 - `/ask-shuff <question>` - Get a response in Patrick's voice
 - `/debate-shuff <position>` - Challenge a position and engage in debate
-- `/explain <topic>` - Get a detailed explanation of a topic
 
 ### Agents
 
@@ -56,8 +55,7 @@ shuff.md/
 │   ├── settings.json            # Plugin configuration
 │   └── commands/                # Skill definitions
 │       ├── ask-shuff.md
-│       ├── debate-shuff.md
-│       └── explain.md
+│       └── debate-shuff.md
 ├── agents/                      # Agent definitions
 │   ├── philosophy-explorer.md
 │   ├── startup-advisor.md

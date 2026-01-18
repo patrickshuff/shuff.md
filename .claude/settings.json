@@ -26,10 +26,6 @@
     "debate-shuff": {
       "description": "Challenge a position and engage in constructive debate",
       "file": "commands/debate-shuff.md"
-    },
-    "explain": {
-      "description": "Get a detailed explanation from Patrick's perspective",
-      "file": "commands/explain.md"
     }
   },
   "agents": {
