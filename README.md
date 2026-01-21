@@ -14,17 +14,15 @@ This is a "digital twin" plugin - a structured knowledge base that allows Claude
 
 ### As a Claude Code Plugin
 
-Install via Claude Code's plugin manager:
-
-```bash
-claude plugin install patrickshuff/shuff.md
-```
-
-Or clone and install locally:
+Clone and install locally to your Claude plugins directory:
 
 ```bash
 git clone https://github.com/patrickshuff/shuff.md.git ~/.claude/plugins/shuff
 ```
+
+Then restart Claude Code or reload plugins. Skills will be available as:
+- `/shuff:ask-shuff <question>`
+- `/shuff:debate-shuff <position>`
 
 ### As a Standalone Project
 
@@ -35,6 +33,10 @@ git clone https://github.com/patrickshuff/shuff.md.git
 cd shuff.md
 claude
 ```
+
+Skills will be available without namespace:
+- `/ask-shuff <question>`
+- `/debate-shuff <position>`
 
 ## Usage
 
