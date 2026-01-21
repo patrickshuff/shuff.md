@@ -21,8 +21,8 @@ git clone https://github.com/patrickshuff/shuff.md.git ~/.claude/plugins/shuff
 ```
 
 Then restart Claude Code or reload plugins. Skills will be available as:
-- `/shuff:ask-shuff <question>`
-- `/shuff:debate-shuff <position>`
+- `/shuff.md:ask-shuff <question>`
+- `/shuff.md:debate-shuff <position>`
 
 ### As a Standalone Project
 
@@ -54,8 +54,8 @@ Just ask naturally:
 
 When installed as a plugin, skills are namespaced:
 
-- `/shuff:ask-shuff <question>` - Get a response in Patrick's voice
-- `/shuff:debate-shuff <position>` - Challenge a position and engage in debate
+- `/shuff.md:ask-shuff <question>` - Get a response in Patrick's voice
+- `/shuff.md:debate-shuff <position>` - Challenge a position and engage in debate
 
 When used as a standalone project:
 
