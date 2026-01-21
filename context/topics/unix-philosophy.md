@@ -9,7 +9,6 @@ Suggested topics to cover:
 - Text streams as universal interface
 - Small, sharp tools
 - How this applies to modern software design
-- Where Unix philosophy breaks down
 - Lessons for building developer tools
 -->
 

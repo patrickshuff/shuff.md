@@ -16,7 +16,11 @@ Suggested topics to cover:
 
 ## Philosophy on Hiring
 
-[Your core beliefs about what makes good hiring]
+### A Players Hire A Players. B Players Hire C Players.
+
+No matter if you work at a non profit, startup, play professionally, or work in large tech, this statement is so so true.
+
+[Additional core beliefs about what makes good hiring]
 
 ## What I Look For
 

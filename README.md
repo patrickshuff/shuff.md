@@ -12,7 +12,23 @@ This is a "digital twin" plugin - a structured knowledge base that allows Claude
 
 ## Installation
 
-Clone this repository and point Claude Code at it:
+### As a Claude Code Plugin
+
+Install via Claude Code's plugin manager:
+
+```bash
+claude plugin install patrickshuff/shuff.md
+```
+
+Or clone and install locally:
+
+```bash
+git clone https://github.com/patrickshuff/shuff.md.git ~/.claude/plugins/shuff
+```
+
+### As a Standalone Project
+
+Clone this repository and open it with Claude Code:
 
 ```bash
 git clone https://github.com/patrickshuff/shuff.md.git
@@ -34,6 +50,13 @@ Just ask naturally:
 
 ### Skills (Slash Commands)
 
+When installed as a plugin, skills are namespaced:
+
+- `/shuff:ask-shuff <question>` - Get a response in Patrick's voice
+- `/shuff:debate-shuff <position>` - Challenge a position and engage in debate
+
+When used as a standalone project:
+
 - `/ask-shuff <question>` - Get a response in Patrick's voice
 - `/debate-shuff <position>` - Challenge a position and engage in debate
 
@@ -49,13 +72,19 @@ For deeper exploration:
 
 ```
 shuff.md/
+├── .claude-plugin/
+│   └── plugin.json              # Plugin manifest (required)
 ├── CLAUDE.md                    # Main context file
 ├── README.md                    # This file
-├── .claude/
-│   ├── settings.json            # Plugin configuration
-│   └── commands/                # Skill definitions
-│       ├── ask-shuff.md
-│       └── debate-shuff.md
+├── AGENTS.md                    # Agent guidelines
+├── commands/                    # Legacy command definitions
+│   ├── ask-shuff.md
+│   └── debate-shuff.md
+├── skills/                      # Modern skill definitions
+│   ├── ask-shuff/
+│   │   └── SKILL.md
+│   └── debate-shuff/
+│       └── SKILL.md
 ├── agents/                      # Agent definitions
 │   ├── philosophy-explorer.md
 │   ├── startup-advisor.md
@@ -73,7 +102,8 @@ shuff.md/
         ├── monorepo-vs-polyrepo.md
         ├── monolith-vs-microservices.md
         ├── internal-tooling.md
-        └── language-choice.md
+        ├── language-choice.md
+        └── ... (20+ more topics)
 ```
 
 ## Customization
