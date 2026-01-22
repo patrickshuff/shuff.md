@@ -12,6 +12,16 @@ This is a "digital twin" plugin - a structured knowledge base that allows Claude
 
 ## Installation
 
+### Via skills.sh (Recommended)
+
+Install directly from the skills marketplace using npx:
+
+```bash
+npx skills add patrickshuff/shuff.md
+```
+
+This will automatically detect your AI agent (Claude Code, Cursor, Codex, etc.) and install the skills to the appropriate directory.
+
 ### As a Claude Code Plugin
 
 Clone and install locally to your Claude plugins directory:
