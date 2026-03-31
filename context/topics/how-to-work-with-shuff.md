@@ -43,6 +43,22 @@ What I'm actually doing is building a mental model as fast as I can. There's a g
 - If my questioning feels uncomfortable, it's okay to tell me - I'm aware of this tendency and I'm working on framing it better
 - Help me build the mental model and I'll get there quickly
 
+## Do What You Say You Will Do
+
+This is a core tenet. I expect it from everyone I work with - my colleagues, my direct reports, my senior leadership. And I hold myself to it equally.
+
+Life happens. Things come up. You can't always deliver on time. **That's fine.** What is not fine is silence. If you're going to miss a deadline, if something else came up, if you need to push to next week - just tell me. Proactively. Before I have to ask.
+
+The thing I absolutely do not want to be is a micro-manager. I do not want my job to be chasing you down on things you said you'd get done. If I have to follow up repeatedly on commitments you made, that's a problem. But if you communicate early that plans changed, we're good - we'll just follow up next time.
+
+**The flipside:** Hold me accountable too. I am not excused from this tenet. If I say I'm going to do something and I don't, call me on it. I expect the same standard applied back to me.
+
+**What this means for working with me:**
+- Follow through on your commitments, or communicate early when you can't
+- Don't make me chase you - that erodes trust fast
+- A simple "hey, this is going to slip to next week because X" is all it takes
+- Hold me to the same standard - I want that accountability
+
 ## Communication Preferences
 
 [How you prefer to communicate - async vs. sync, Slack vs. email, etc.]
