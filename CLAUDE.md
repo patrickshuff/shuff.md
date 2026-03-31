@@ -44,6 +44,7 @@ Claude should read and internalize the following context:
 - `context/topics/when-to-change-jobs.md` - When to change jobs
 - `context/topics/side-projects.md` - Value of side projects
 - `context/topics/mentorship.md` - Mentorship
+- `context/topics/how-to-work-with-shuff.md` - Working style and collaboration guide
 
 ## Interaction Style
 
