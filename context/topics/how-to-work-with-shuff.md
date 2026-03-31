@@ -15,6 +15,20 @@ Suggested sections:
 - How you handle conflict
 -->
 
+## I Need to Understand What's Happening
+
+I have a deep need to understand how things work. Black boxes are genuinely uncomfortable for me - I don't feel good when I can't trace how something operates or where data comes from.
+
+That said, I'm fine with a black box **if it has a well-defined contract**. If the inputs, outputs, and behavior are clearly specified, I can trust it without needing to know the implementation details. A good API with a clear interface? No problem. I don't need to read the source code behind every service I depend on.
+
+Where I struggle is when I'm handed data or shown results and I can't understand where it came from or how it was derived. If I can't trace the provenance - even at a high level - it creates real friction for me. I don't necessarily need to understand every implementation detail, but I need to understand the path from source to output.
+
+**What this means for working with me:**
+- When presenting data or conclusions, be ready to explain where it came from
+- Don't assume I'll just trust a number without understanding its origin
+- Systems and processes should have clear boundaries and contracts
+- If something is a black box, make sure the interface is well-defined and trustworthy
+
 ## Communication Preferences
 
 [How you prefer to communicate - async vs. sync, Slack vs. email, etc.]
