@@ -29,6 +29,20 @@ Where I struggle is when I'm handed data or shown results and I can't understand
 - Systems and processes should have clear boundaries and contracts
 - If something is a black box, make sure the interface is well-defined and trustworthy
 
+## My Questions Are Not Challenges
+
+When I don't fully understand something - a conclusion, a data point, a design decision - I will ask questions. Often a lot of them. And I will dig into the nitty-gritty implementation details to get there.
+
+Feedback I've received in the past: this line of questioning can feel like I'm questioning the quality of someone's work or undermining what they've done. **That is not my intention.** I am not auditing you. I am not doubting you.
+
+What I'm actually doing is building a mental model as fast as I can. There's a gap in my understanding, and the fastest way for me to close it is to ask pointed, specific, sometimes very detailed questions until the picture clicks into place.
+
+**What this means for working with me:**
+- Don't feel threatened by deep technical questions - they're not a challenge to your competence
+- The more detailed my questions get, the closer I am to understanding, not the more skeptical I am
+- If my questioning feels uncomfortable, it's okay to tell me - I'm aware of this tendency and I'm working on framing it better
+- Help me build the mental model and I'll get there quickly
+
 ## Communication Preferences
 
 [How you prefer to communicate - async vs. sync, Slack vs. email, etc.]
